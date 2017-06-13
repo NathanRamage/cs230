@@ -4,20 +4,20 @@
 
 # Bash #
 ########
-*.bash_history
-*.bash_logout
-*.bashrc
+.bash_history
+.bash_logout
+.bashrc
 
 # Git config #
 ##############
-*.gitconfig
+.gitconfig
 
 # Vim #
 #######
-*.viminfo
-*.vimrc
+.viminfo
+.vimrc
 
 # Other files #
 ###############
 less.txt
-*.profile
+.profile
