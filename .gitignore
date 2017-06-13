@@ -1,0 +1,23 @@
+# Cache #
+#########
+.cache/*
+
+# Bash #
+########
+*.bash_history
+*.bash_logout
+*.bashrc
+
+# Git config #
+##############
+*.gitconfig
+
+# Vim #
+#######
+*.viminfo
+*.vimrc
+
+# Other files #
+###############
+less.txt
+*.profile
